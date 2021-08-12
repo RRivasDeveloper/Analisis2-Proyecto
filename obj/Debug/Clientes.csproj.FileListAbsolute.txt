@@ -1,0 +1,7 @@
+E:\Clases UMG\Analisis2\Machote1\Clientes\bin\Clientes.dll.config
+E:\Clases UMG\Analisis2\Machote1\Clientes\bin\Clientes.dll
+E:\Clases UMG\Analisis2\Machote1\Clientes\bin\Clientes.pdb
+E:\Clases UMG\Analisis2\Machote1\Clientes\obj\Debug\Clientes.csprojAssemblyReference.cache
+E:\Clases UMG\Analisis2\Machote1\Clientes\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+E:\Clases UMG\Analisis2\Machote1\Clientes\obj\Debug\Clientes.dll
+E:\Clases UMG\Analisis2\Machote1\Clientes\obj\Debug\Clientes.pdb
